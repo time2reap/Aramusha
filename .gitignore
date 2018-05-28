@@ -2,3 +2,10 @@
 *.ini
 ProjectAramusha/Saved/AutoScreenshot.png
 ProjectAramusha/Intermediate/CachedAssetRegistry.bin
+ProjectAramusha/Binaries
+ProjectAramusha/Config
+ProjectAramusha/Content
+ProjectAramusha/Source
+ProjectAramusha/DerivedDataCache
+ProjectAramusha/ProjectAramusha.sln
+ProjectAramusha/ProjectAramusha.uproject
