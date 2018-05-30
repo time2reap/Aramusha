@@ -1,9 +1,7 @@
 *.log
-*.ini
 ProjectAramusha/Saved/AutoScreenshot.png
 ProjectAramusha/Intermediate/CachedAssetRegistry.bin
 ProjectAramusha/Binaries
-ProjectAramusha/Config
 ProjectAramusha/Source
 ProjectAramusha/DerivedDataCache
 ProjectAramusha/ProjectAramusha.sln
