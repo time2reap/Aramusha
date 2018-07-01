@@ -54,14 +54,6 @@
 		{
 			"Name": "MobilePatchingUtils",
 			"Enabled": false
-		},
-		{
-			"Name": "AdvancedSessions",
-			"Enabled": true
-		},
-		{
-			"Name": "AdvancedSteamSessions",
-			"Enabled": true
 		}
 	]
 }
