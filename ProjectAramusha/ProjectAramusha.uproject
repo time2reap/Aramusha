@@ -5,10 +5,6 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "OnlineSubsystemSteam",
-			"Enabled": true
-		},
-		{
 			"Name": "OnlineSubsystemGooglePlay",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
@@ -56,11 +52,11 @@
 			"Enabled": false
 		},
 		{
-			"Name": "AdvancedSessions",
+			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
 		},
 		{
-			"Name": "AdvancedSteamSessions",
+			"Name": "OnlineFramework",
 			"Enabled": true
 		}
 	]
