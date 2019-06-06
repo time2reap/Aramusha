@@ -1,0 +1,39 @@
+{
+	"FileVersion": 3,
+	"Version": 52426917,
+	"VersionName": "1.3.0",
+	"FriendlyName": "glTF for UE4",
+	"Description": "Import the glTF into UE4",
+	"Category": "Misc",
+	"CreatedBy": "Code 4 Game",
+	"CreatedByURL": "https://c4g.io/",
+	"DocsURL": "https://doc.c4g.io/",
+	"MarketplaceURL": "",
+	"SupportURL": "https://doc.c4g.io/",
+	"EngineVersion": "4.22.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "glTFForUE4",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Mac"
+			]
+		},
+		{
+			"Name": "glTFForUE4Ed",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Mac"
+			]
+		}
+	]
+}

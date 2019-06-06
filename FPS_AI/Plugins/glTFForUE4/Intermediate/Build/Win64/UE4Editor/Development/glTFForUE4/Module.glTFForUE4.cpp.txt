@@ -1,0 +1,94 @@
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Intermediate\Build\Win64\UE4Editor\Development\glTFForUE4\Definitions.glTFForUE4.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4\Private\glTF\glTFImporter.cpp
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4\Private\glTFForUE4PrivatePCH.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4\Public\glTF/glTFImporter.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vector
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\climits
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xutility
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\utility
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstring
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xatomic0.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\map
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\tuple
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtree
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libgltf_ue4\libgltf-0.1.3\include\libgltf/libgltf.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xiosbase
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\locale.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4\Public\glTF/glTFImporterOptions.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Intermediate\Build\Win64\UE4Editor\Inc\glTFForUE4\glTFImporterOptions.generated.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/compression/decode.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/compression/config/compression_shared.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/compression/config/decoder_options.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/attributes/geometry_attribute.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\array
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\algorithm
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iterator
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/attributes/geometry_indices.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\inttypes.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/core/draco_index_type.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/core/data_buffer.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/core/draco_types.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/core/hash_utils.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\functional
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/compression/config/draco_options.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/core/options.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/core/decoder_buffer.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/core/macros.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\assert.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iostream
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/core/statusor.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/core/status.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/mesh/mesh.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/point_cloud/point_cloud.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/attributes/point_attribute.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/attributes/attribute_transform_data.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/attributes/attribute_transform_type.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/core/draco_index_type_vector.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/metadata/geometry_metadata.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libdraco_ue4\libdraco-1.2.5\include\draco/metadata/metadata.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\unordered_map
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xhash
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\list
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4\Private\glTF\glTFImporterOptions.cpp
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4\Private\glTF\glTFImporterOptionsWindow.cpp
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4\Public\glTF/glTFImporterOptionsWindow.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4\Private\glTFForUE4.cpp
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4\Public\glTFForUE4.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4\Classes\glTFForUE4Settings.h
+j:\aramusha\fps_ai\plugins\gltfforue4\source\gltfforue4\public\glTFForUE4PublicPCH.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Intermediate\Build\Win64\UE4Editor\Inc\glTFForUE4\glTFForUE4Settings.generated.h
+j:\aramusha\fps_ai\plugins\gltfforue4\source\gltfforue4\public\glTFForUE4Module.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4\Private\glTFForUE4Module.cpp
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4\Private\glTFForUE4Settings.cpp

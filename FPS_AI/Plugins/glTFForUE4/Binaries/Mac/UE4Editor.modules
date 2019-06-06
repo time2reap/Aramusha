@@ -1,0 +1,8 @@
+{
+	"BuildId": "5365847",
+	"Modules": 
+	{
+		"glTFForUE4": "UE4Editor-glTFForUE4.dylib",
+		"glTFForUE4Ed": "UE4Editor-glTFForUE4Ed.dylib"
+	}
+}

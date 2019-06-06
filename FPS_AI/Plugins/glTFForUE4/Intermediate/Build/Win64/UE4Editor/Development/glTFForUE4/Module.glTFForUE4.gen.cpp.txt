@@ -1,0 +1,11 @@
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Intermediate\Build\Win64\UE4Editor\Development\glTFForUE4\Definitions.glTFForUE4.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Intermediate\Build\Win64\UE4Editor\Inc\glTFForUE4\glTFForUE4.init.gen.cpp
+C:\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Intermediate\Build\Win64\UE4Editor\Inc\glTFForUE4\glTFForUE4Settings.gen.cpp
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4/Classes/glTFForUE4Settings.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4\Public\glTFForUE4PublicPCH.h
+j:\aramusha\fps_ai\plugins\gltfforue4\intermediate\build\win64\ue4editor\inc\gltfforue4\glTFForUE4Settings.generated.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Intermediate\Build\Win64\UE4Editor\Inc\glTFForUE4\glTFImporterOptions.gen.cpp
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4/Public/glTF/glTFImporterOptions.h
+j:\aramusha\fps_ai\plugins\gltfforue4\intermediate\build\win64\ue4editor\inc\gltfforue4\glTFImporterOptions.generated.h

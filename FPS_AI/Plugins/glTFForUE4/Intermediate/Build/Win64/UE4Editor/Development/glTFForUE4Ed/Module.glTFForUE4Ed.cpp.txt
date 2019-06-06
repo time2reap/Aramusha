@@ -1,0 +1,320 @@
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Intermediate\Build\Win64\UE4Editor\Development\glTFForUE4Ed\Definitions.glTFForUE4Ed.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4Ed\Private\glTF\glTFBinaryFactory.cpp
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4Ed\Private\glTFForUE4EdPrivatePCH.h
+j:\aramusha\fps_ai\plugins\gltfforue4\source\gltfforue4ed\private\gltf\glTFBinaryFactory.h
+j:\aramusha\fps_ai\plugins\gltfforue4\source\gltfforue4ed\private\gltf\glTFFactory.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Intermediate\Build\Win64\UE4Editor\Inc\glTFForUE4Ed\glTFFactory.generated.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Intermediate\Build\Win64\UE4Editor\Inc\glTFForUE4Ed\glTFBinaryFactory.generated.h
+j:\aramusha\fps_ai\plugins\gltfforue4\source\gltfforue4ed\private\gltf\glTFImporterEd.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4\Public\glTF/glTFImporter.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vector
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\climits
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xutility
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\utility
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstring
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xatomic0.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\map
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\tuple
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtree
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Extras\libgltf_ue4\libgltf-0.1.3\include\libgltf/libgltf.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xiosbase
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\locale.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
+C:\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4Ed\Private\glTF\glTFFactory.cpp
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4\Public\glTF/glTFImporterOptions.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Intermediate\Build\Win64\UE4Editor\Inc\glTFForUE4\glTFImporterOptions.generated.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4Ed\Private\glTF/glTFImporterOptionsWindowEd.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4\Public\glTF/glTFImporterOptionsWindow.h
+C:\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/FeedbackContext.h
+C:\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/SlowTaskStack.h
+C:\UE_4.22\Engine\Source\Editor\UnrealEd\Public\ObjectTools.h
+C:\UE_4.22\Engine\Source\Developer\CollectionManager\Public\CollectionManagerTypes.h
+C:\UE_4.22\Engine\Source\Developer\SourceControl\Public\ISourceControlState.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4Ed\Private\glTF\glTFImporterEd.cpp
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4Ed\Private\glTF/glTFImporterEdStaticMesh.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4Ed\Private\glTF/glTFImporterEdSkeletalMesh.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4Ed\Private\glTF\glTFImporterEdAnimationSequence.cpp
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4Ed\Private\glTF/glTFImporterEdAnimationSequence.h
+C:\UE_4.22\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryModule.h
+C:\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+c:\ue_4.22\engine\source\runtime\assetregistry\public\IAssetRegistry.h
+C:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4Ed\Private\glTF\glTFImporterEdMaterial.cpp
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4Ed\Private\glTF/glTFImporterEdMaterial.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4Ed\Private\glTF/glTFImporterEdTexture.h
+C:\UE_4.22\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionScalarParameter.h
+C:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionScalarParameter.generated.h
+C:\UE_4.22\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionVectorParameter.h
+C:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionVectorParameter.generated.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4Ed\Private\glTF\glTFImporterEdSkeletalMesh.cpp
+C:\UE_4.22\Engine\Source\Editor\UnrealEd\Public\SkelImport.h
+C:\UE_4.22\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshLODImporterData.h
+C:\UE_4.22\Engine\Source\Runtime\Engine\Public\GenericOctree.h
+c:\ue_4.22\engine\source\runtime\engine\public\GenericOctreePublic.h
+c:\ue_4.22\engine\source\runtime\engine\public\GenericOctree.inl
+C:\UE_4.22\Engine\Source\Runtime\Engine\Classes\Animation/MorphTarget.h
+C:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MorphTarget.generated.h
+C:\UE_4.22\Engine\Source\Developer\MeshUtilities\Public\MeshUtilities.h
+C:\UE_4.22\Engine\Source\Runtime\Engine\Public\MeshBuild.h
+C:\UE_4.22\Engine\Source\Developer\MeshMergeUtilities\Public\IMeshMergeUtilities.h
+C:\UE_4.22\Engine\Source\Developer\MeshReductionInterface\Public\IMeshReductionInterfaces.h
+C:\UE_4.22\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshModel.h
+C:\UE_4.22\Engine\Source\Runtime\Engine\Public\Rendering/SkeletalMeshLODModel.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4Ed\Private\glTF\glTFImporterEdStaticMesh.cpp
+C:\UE_4.22\Engine\Source\Developer\RawMesh\Public\RawMesh.h
+C:\UE_4.22\Engine\Source\Runtime\Engine\Classes\EditorFramework/AssetImportData.h
+C:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AssetImportData.generated.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4Ed\Private\glTF\glTFImporterEdTexture.cpp
+C:\UE_4.22\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapper.h
+C:\UE_4.22\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapperModule.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4Ed\Private\glTF\glTFImporterOptionsWindowEd.cpp
+C:\UE_4.22\Engine\Source\Editor\MainFrame\Public\Interfaces/IMainFrameModule.h
+C:\UE_4.22\Engine\Source\Editor\Documentation\Public\IDocumentation.h
+c:\ue_4.22\engine\source\editor\documentation\public\IDocumentationModule.h
+C:\UE_4.22\Engine\Source\Editor\PropertyEditor\Public\PropertyEditorModule.h
+c:\ue_4.22\engine\source\editor\propertyeditor\public\IDetailsView.h
+c:\ue_4.22\engine\source\editor\propertyeditor\public\PropertyEditorDelegates.h
+c:\ue_4.22\engine\source\editor\propertyeditor\public\IPropertyTypeCustomization.h
+C:\UE_4.22\Engine\Source\Editor\EditorStyle\Public\EditorStyle.h
+C:\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h
+C:\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\UE_4.22\Engine\Source\Runtime\Core\Public\Core.h
+c:\ue_4.22\engine\source\runtime\core\public\Misc/MonolithicHeaderBoilerplate.h
+c:\ue_4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatformStackWalk.h
+c:\ue_4.22\engine\source\runtime\core\public\HAL/PlatformStackWalk.h
+c:\ue_4.22\engine\source\runtime\core\public\Windows/WindowsPlatformStackWalk.h
+c:\ue_4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatformNamedPipe.h
+c:\ue_4.22\engine\source\runtime\core\public\HAL/PlatformNamedPipe.h
+c:\ue_4.22\engine\source\runtime\core\public\Windows/WindowsPlatformNamedPipe.h
+c:\ue_4.22\engine\source\runtime\core\public\GenericPlatform/GenericPlatformCriticalSection.h
+c:\ue_4.22\engine\source\runtime\core\public\HAL/PlatformFile.h
+c:\ue_4.22\engine\source\runtime\core\public\Windows/WindowsPlatformFile.h
+c:\ue_4.22\engine\source\runtime\core\public\HAL/PlatformAffinity.h
+c:\ue_4.22\engine\source\runtime\core\public\HAL/PlatformIncludes.h
+c:\ue_4.22\engine\source\runtime\core\public\Misc/MonolithicHeaderBoilerplate.h
+c:\ue_4.22\engine\source\runtime\core\public\HAL/PlatformFilemanager.h
+c:\ue_4.22\engine\source\runtime\core\public\ProfilingDebugging/ScopedDebugInfo.h
+c:\ue_4.22\engine\source\runtime\core\public\ProfilingDebugging/ExternalProfiler.h
+c:\ue_4.22\engine\source\runtime\core\public\Misc/StringUtility.h
+c:\ue_4.22\engine\source\runtime\core\public\Serialization/NameAsStringProxyArchive.h
+c:\ue_4.22\engine\source\runtime\core\public\Containers/MRUArray.h
+c:\ue_4.22\engine\source\runtime\core\public\Containers/TransArray.h
+c:\ue_4.22\engine\source\runtime\core\public\Containers/ArrayBuilder.h
+c:\ue_4.22\engine\source\runtime\core\public\HAL/Runnable.h
+c:\ue_4.22\engine\source\runtime\core\public\HAL/RunnableThread.h
+c:\ue_4.22\engine\source\runtime\core\public\Misc/SingleThreadEvent.h
+c:\ue_4.22\engine\source\runtime\core\public\Misc/SingleThreadRunnable.h
+c:\ue_4.22\engine\source\runtime\core\public\Containers/StaticBitArray.h
+c:\ue_4.22\engine\source\runtime\core\public\Containers/MapBuilder.h
+c:\ue_4.22\engine\source\runtime\core\public\HAL/ThreadingBase.h
+c:\ue_4.22\engine\source\runtime\core\public\Internationalization/TextLocalizationManagerGlobals.h
+c:\ue_4.22\engine\source\runtime\core\public\Internationalization/Culture.h
+c:\ue_4.22\engine\source\runtime\core\public\Logging/LogSuppressionInterface.h
+c:\ue_4.22\engine\source\runtime\core\public\Logging/LogScopedCategoryAndVerbosityOverride.h
+c:\ue_4.22\engine\source\runtime\core\public\HAL/OutputDevices.h
+c:\ue_4.22\engine\source\runtime\core\public\Logging/LogScopedVerbosityOverride.h
+c:\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceNull.h
+c:\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceMemory.h
+c:\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceFile.h
+c:\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceDebug.h
+c:\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceArchiveWrapper.h
+c:\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceAnsiError.h
+c:\ue_4.22\engine\source\runtime\core\public\Stats/StatsMisc.h
+c:\ue_4.22\engine\source\runtime\core\public\Misc/TimeGuard.h
+c:\ue_4.22\engine\source\runtime\core\public\Serialization/LargeMemoryWriter.h
+c:\ue_4.22\engine\source\runtime\core\public\Serialization/LargeMemoryData.h
+c:\ue_4.22\engine\source\runtime\core\public\Serialization/LargeMemoryReader.h
+c:\ue_4.22\engine\source\runtime\core\public\Serialization/BufferArchive.h
+c:\ue_4.22\engine\source\runtime\core\public\Serialization/MemoryReader.h
+c:\ue_4.22\engine\source\runtime\core\public\Serialization/ArrayReader.h
+c:\ue_4.22\engine\source\runtime\core\public\Serialization/ArrayWriter.h
+c:\ue_4.22\engine\source\runtime\core\public\Serialization/BufferWriter.h
+c:\ue_4.22\engine\source\runtime\core\public\Misc/Variant.h
+c:\ue_4.22\engine\source\runtime\core\public\Misc/WildcardString.h
+c:\ue_4.22\engine\source\runtime\core\public\Containers/CircularBuffer.h
+c:\ue_4.22\engine\source\runtime\core\public\Containers/CircularQueue.h
+c:\ue_4.22\engine\source\runtime\core\public\ProfilingDebugging/ProfilingHelpers.h
+c:\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceHelper.h
+c:\ue_4.22\engine\source\runtime\core\public\Misc/ScopedSlowTask.h
+c:\ue_4.22\engine\source\runtime\core\public\Misc/AutomationTest.h
+c:\ue_4.22\engine\source\runtime\core\public\Async/Async.h
+c:\ue_4.22\engine\source\runtime\core\public\Internationalization/Regex.h
+c:\ue_4.22\engine\source\runtime\core\public\Misc/CallbackDevice.h
+c:\ue_4.22\engine\source\runtime\core\public\Misc/LocalTimestampDirectoryVisitor.h
+c:\ue_4.22\engine\source\runtime\core\public\UObject/BlueprintsObjectVersion.h
+c:\ue_4.22\engine\source\runtime\core\public\UObject/BuildObjectVersion.h
+c:\ue_4.22\engine\source\runtime\core\public\UObject/CoreObjectVersion.h
+c:\ue_4.22\engine\source\runtime\core\public\UObject/FrameworkObjectVersion.h
+c:\ue_4.22\engine\source\runtime\core\public\UObject/MobileObjectVersion.h
+c:\ue_4.22\engine\source\runtime\core\public\UObject/NetworkingObjectVersion.h
+c:\ue_4.22\engine\source\runtime\core\public\UObject/OnlineObjectVersion.h
+c:\ue_4.22\engine\source\runtime\core\public\UObject/PhysicsObjectVersion.h
+c:\ue_4.22\engine\source\runtime\core\public\UObject/PlatformObjectVersion.h
+c:\ue_4.22\engine\source\runtime\core\public\UObject/SequencerObjectVersion.h
+c:\ue_4.22\engine\source\runtime\core\public\UObject/VRObjectVersion.h
+c:\ue_4.22\engine\source\runtime\core\public\Misc/OutputDeviceConsole.h
+c:\ue_4.22\engine\source\runtime\core\public\Misc/MonitoredProcess.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\UObject/ErrorException.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\UObject/UObjectAllocator.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Misc/TextBuffer.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/PropertyLocalizationDataGathering.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\UObject/LevelGuids.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\UObject/MetaData.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\UObject/ObjectMemoryAnalyzer.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\UObject/ReferenceChainSearch.h
+C:\UE_4.22\Engine\Source\Runtime\Core\Public\HAL/ThreadHeartBeat.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Internationalization/TextPackageNamespaceUtil.h
+C:\UE_4.22\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceUtil.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveCountMem.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ObjectAndNameAsStringProxyArchive.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ObjectWriter.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ObjectReader.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveShowReferences.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/FindReferencersArchive.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/FindObjectReferencers.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveFindCulprit.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveObjectGraph.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/TraceReferences.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveTraceRoute.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/DuplicatedObject.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/DuplicatedDataReader.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\UObject/UObjectThreadContext.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/DuplicatedDataWriter.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveReplaceObjectRef.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveReplaceOrClearExternalReferences.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveObjectPropertyMapper.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveReferenceMarker.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Serialization/ArchiveObjectCrc32.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\UObject/ConstructorHelpers.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\UObject/LinkerSave.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\Misc/RedirectCollector.h
+c:\ue_4.22\engine\source\runtime\coreuobject\public\UObject/ScriptStackTracker.h
+C:\UE_4.22\Engine\Source\Runtime\Slate\Public\SlateBasics.h
+C:\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\UE_4.22\Engine\Source\Runtime\Json\Public\Json.h
+C:\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+c:\ue_4.22\engine\source\runtime\json\public\JsonGlobals.h
+c:\ue_4.22\engine\source\runtime\json\public\Policies/CondensedJsonPrintPolicy.h
+c:\ue_4.22\engine\source\runtime\json\public\Serialization/JsonTypes.h
+c:\ue_4.22\engine\source\runtime\json\public\Dom/JsonValue.h
+c:\ue_4.22\engine\source\runtime\json\public\Dom/JsonObject.h
+c:\ue_4.22\engine\source\runtime\json\public\Serialization/JsonReader.h
+c:\ue_4.22\engine\source\runtime\json\public\Serialization/JsonWriter.h
+c:\ue_4.22\engine\source\runtime\json\public\Serialization/JsonSerializer.h
+c:\ue_4.22\engine\source\runtime\json\public\Serialization/JsonSerializerMacros.h
+C:\UE_4.22\Engine\Source\Runtime\SlateCore\Public\SlateCore.h
+C:\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+C:\UE_4.22\Engine\Source\Runtime\InputCore\Public\InputCore.h
+c:\ue_4.22\engine\source\runtime\inputcore\public\InputCoreModule.h
+c:\ue_4.22\engine\source\runtime\slatecore\public\Animation/SlateSprings.h
+c:\ue_4.22\engine\source\runtime\slatecore\public\Sound/ISlateSoundDevice.h
+c:\ue_4.22\engine\source\runtime\slatecore\public\Sound/NullSlateSoundDevice.h
+c:\ue_4.22\engine\source\runtime\slatecore\public\Textures/SlateUpdatableTexture.h
+c:\ue_4.22\engine\source\runtime\slatecore\public\Fonts/FontBulkData.h
+C:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontBulkData.generated.h
+c:\ue_4.22\engine\source\runtime\slatecore\public\Fonts/FontMeasure.h
+c:\ue_4.22\engine\source\runtime\slatecore\public\Brushes/SlateBorderBrush.h
+c:\ue_4.22\engine\source\runtime\slatecore\public\Brushes/SlateBoxBrush.h
+c:\ue_4.22\engine\source\runtime\slatecore\public\Brushes/SlateColorBrush.h
+c:\ue_4.22\engine\source\runtime\slatecore\public\Brushes/SlateImageBrush.h
+c:\ue_4.22\engine\source\runtime\slatecore\public\Styling/SlateStyleRegistry.h
+c:\ue_4.22\engine\source\runtime\slatecore\public\Styling/SlateStyle.h
+c:\ue_4.22\engine\source\runtime\slatecore\public\Types/NavigationMetaData.h
+c:\ue_4.22\engine\source\runtime\slatecore\public\Rendering/RenderingPolicy.h
+c:\ue_4.22\engine\source\runtime\slatecore\public\Rendering/SlateDrawBuffer.h
+c:\ue_4.22\engine\source\runtime\slatecore\public\Widgets/SUserWidget.h
+c:\ue_4.22\engine\source\runtime\slate\public\SlateOptMacros.h
+c:\ue_4.22\engine\source\runtime\slate\public\Framework/Text/PlatformTextField.h
+c:\ue_4.22\engine\source\runtime\slate\public\Framework/Text/GenericPlatformTextField.h
+c:\ue_4.22\engine\source\runtime\slate\public\Framework/Application/IPlatformTextField.h
+c:\ue_4.22\engine\source\runtime\slate\public\Framework/Application/NavigationConfig.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/SWeakWidget.h
+c:\ue_4.22\engine\source\runtime\slate\public\Framework/Text/TextHitPoint.h
+c:\ue_4.22\engine\source\runtime\slate\public\Framework/Text/IRunRenderer.h
+c:\ue_4.22\engine\source\runtime\slate\public\Framework/Text/ILineHighlighter.h
+c:\ue_4.22\engine\source\runtime\slate\public\Framework/Text/ILayoutBlock.h
+c:\ue_4.22\engine\source\runtime\slate\public\Framework/Text/DefaultLayoutBlock.h
+c:\ue_4.22\engine\source\runtime\slate\public\Framework/Text/WidgetLayoutBlock.h
+c:\ue_4.22\engine\source\runtime\slate\public\Framework/Text/ISlateRun.h
+c:\ue_4.22\engine\source\runtime\slate\public\Framework/Text/ISlateRunRenderer.h
+c:\ue_4.22\engine\source\runtime\slate\public\Framework/Text/ISlateLineHighlighter.h
+c:\ue_4.22\engine\source\runtime\slate\public\Framework/Text/SlateTextLayout.h
+c:\ue_4.22\engine\source\runtime\slate\public\Framework/Text/SlateTextRun.h
+c:\ue_4.22\engine\source\runtime\slate\public\Framework/Text/SlateHyperlinkRun.h
+c:\ue_4.22\engine\source\runtime\slate\public\Framework/Text/SlateImageRun.h
+c:\ue_4.22\engine\source\runtime\slate\public\Framework/Text/SlateWidgetRun.h
+c:\ue_4.22\engine\source\runtime\slate\public\Framework/Text/TextLayoutEngine.h
+C:\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SFxWidget.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SSeparator.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SWrapBox.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/Images/SSpinningImage.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/Notifications/SProgressBar.h
+C:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\SProgressBar.generated.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/SCanvas.h
+c:\ue_4.22\engine\source\runtime\slate\public\Framework/Text/ITextDecorator.h
+c:\ue_4.22\engine\source\runtime\slate\public\Framework/Text/TextDecorators.h
+c:\ue_4.22\engine\source\runtime\slate\public\Framework/Text/SlateTextLayoutFactory.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/Text/SRichTextBlock.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SHeader.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SGridPanel.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SUniformGridPanel.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/Text/SMultiLineEditableText.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/Input/SMultiLineEditableTextBox.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SScrollBarTrack.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SScrollBorder.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/Notifications/SErrorHint.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/Notifications/SPopUpErrorText.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/Views/STileView.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/Layout/SScrollBox.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/SViewport.h
+C:\UE_4.22\Engine\Source\Runtime\SlateCore\Public\Input/HittestGrid.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/Colors/SColorBlock.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/Input/SSpinBox.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/Input/SSlider.h
+c:\ue_4.22\engine\source\runtime\slate\public\Widgets/Input/SComboBox.h
+c:\ue_4.22\engine\source\editor\editorstyle\public\Interfaces/IEditorStyleModule.h
+c:\ue_4.22\engine\source\editor\editorstyle\public\Classes/EditorStyleSettings.h
+C:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EditorStyle\EditorStyleSettings.generated.h
+c:\ue_4.22\engine\source\editor\editorstyle\public\EditorFontGlyphs.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4Ed\Private\glTFForUE4Ed.cpp
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4Ed\Public\glTFForUE4Ed.h
+j:\aramusha\fps_ai\plugins\gltfforue4\source\gltfforue4ed\public\glTFForUE4EdModule.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4Ed\Private\glTFForUE4EdModule.cpp
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4\Classes\glTFForUE4Settings.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Source\glTFForUE4\Public\glTFForUE4PublicPCH.h
+J:\Aramusha\FPS_AI\Plugins\glTFForUE4\Intermediate\Build\Win64\UE4Editor\Inc\glTFForUE4\glTFForUE4Settings.generated.h
+C:\UE_4.22\Engine\Source\Developer\Settings\Public\ISettingsModule.h
